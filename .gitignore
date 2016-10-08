@@ -1,0 +1,8 @@
+#Ignore everything
+*
+
+#But not this shit
+!.gitignore
+!stuffricketsays.py
+!quotefile
+!songfile
